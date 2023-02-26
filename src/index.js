@@ -78,8 +78,6 @@ function decode(expr) {
     return a.join(" ");
 }
 
-decode(expr);
-
 module.exports = {
     decode
 }
